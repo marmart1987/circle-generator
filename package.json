@@ -1,0 +1,14 @@
+{
+  "name": "circle",
+  "version": "1.0.0",
+  "description": "Circle generator and Pi calculator",
+  "main": "circle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  }
+}
